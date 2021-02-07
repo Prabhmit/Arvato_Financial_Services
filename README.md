@@ -28,6 +28,7 @@ Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germa
 Udacity_CUSTOMERS_052018.csv: Demographics data for customers of a mail-order company; 191652 persons (rows) x 369 features (columns).
 Udacity_MAILOUT_052018_TRAIN.csv: Demographics data for individuals who were targets of a marketing campaign; 42982 persons (rows) x 367 (columns).
 Udacity_MAILOUT_052018_TEST.csv: Demographics data for individuals who were targets of a marketing campaign; 42833 persons (rows) x 366 (columns).
+As per AZ Direct GmbH's General Terms, the data has not been included in the repository.
 
 Information regarding the data is included in:
 DIAS Information Levels Attributes 2017.xlsx: is a top-level list of attributes and descriptions, organized by informational category. 
