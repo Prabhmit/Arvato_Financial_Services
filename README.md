@@ -19,8 +19,7 @@ The goal of of the project is to build a model that can acquire new clients effi
 
 # 4. Project Components and File Descriptions
 
-The datasets are Udacity_AZDIAS_052018.csv and Udacity_CUSTOMERS_052018.csv. Arvato Project workbook.ipynb is a Jupyter notebook which includes the relevant Python code for this excercise. 
-Modularised_code.ipynb is a Jupyter notebook that contains modularised code for the entire project. 
+The datasets are Udacity_AZDIAS_052018.csv and Udacity_CUSTOMERS_052018.csv. Arvato Project workbook.ipynb is a Jupyter notebook which includes the relevant Python code for this excercise. Modularised_code.ipynb is a Jupyter notebook that contains modularised and concise code for the entire project. 
 
 There are four data files associated with this project:
 
@@ -82,4 +81,10 @@ Data Scientist Capstone, Data Scientist Nanodegree Program, Udacity, https://www
 
 Capstone Project: Bertelsmann/Arvato Project, Udacity, https://www.udacity.com/course/data-scientist-nanodegree--nd025
 
-scikit-learn, Machine Learning in Python - https://scikit-learn.org/stable/index.html
+scikit-learn, Machine Learning in Python, https://scikit-learn.org/stable/index.html
+
+Kaggle.com, Udacity + Arvato Financial Solutions: Identify Customers from a Mailout Campaign ,https://www.kaggle.com/c/udacity-arvato-identify-customers/overview/evaluation
+
+Analytics Vidhya, A Beginner’s Guide to Random Forest Hyperparameter Tuning, https://www.analyticsvidhya.com/blog/2020/03/beginners-guide-random-forest-hyperparameter-tuning/
+
+Analytics Vidhya, A Comprehensive Guide to Ensemble Learning, https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
