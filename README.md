@@ -64,7 +64,7 @@ The customes in the mailout_test dataset were ranked on how likely they are to c
 
 The entry to the competition was a CSV file with two columns. The first column is "LNR", which is as an ID number for each individual in the "TEST" partition.
 The second column, "RESPONSE" is measure of how likely each individual is to became a customer. The competition used AUC to evaluate performance. 
-The exact values of the "RESPONSE" column did not matter as much: only that the higher RESPONSE values would try to capture as many of the actual customers as possible, early in the ROC curve sweep. 
+The exact values of the "RESPONSE" column did not matter as much: only that the higher 'RESPONSE' values would try to capture as many of the actual customers as possible, early in the ROC curve sweep. 
 
 # 5. Instructions
 
