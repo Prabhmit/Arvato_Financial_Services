@@ -19,7 +19,7 @@ The goal of of the project is to build a model that can acquire new clients effi
 
 # 4. Project Components and File Descriptions
 
-The datasets are Udacity_AZDIAS_052018.csv and Udacity_CUSTOMERS_052018.csv. Arvato Project workbook.ipynb is a Jupyter notebook which includes the relevant Python code for this excercise. Modularised_code.ipynb is a Jupyter notebook that contains modularised and concise code for the entire project. 
+The datasets are Udacity_AZDIAS_052018.csv and Udacity_CUSTOMERS_052018.csv. Arvato Project workbook.ipynb is a Jupyter notebook which includes the relevant Python code for this excercise. 
 
 There are four data files associated with this project:
 
@@ -41,18 +41,17 @@ customers_clean_clustered.csv: cleaned customers poplulation dataset with cluste
 mailout_train.csv: cleaned test dataset 
 mailout_test.csv: cleaned test dataset
 
-Under an agreement with AZ Direct GmbH's General Terms, none of data files have been included in the repository.
+Under an agreement with AZ Direct GmbH's General Terms, the data files have not been included in the repository.
 
 The project has four components: 
 
 ## A. Get to know the data
 
-In this component a detailed inspection and cleaning of the general population data is undertaken. Based on this, a function was created to clean the other three data files at relevant stages of the project.
+In this component a detailed inspection and cleaning of the general population data is undertaken. Based on this, a function was created to clean the other data files at relevant stages of the project.
 
 ## B. Customer segmentation report 
 
-In this component unsupervised learning techniques were used to describe the relationship between the demographics of the company's existing customers and the general population. 
-The goal is to describe parts of the general population that are more likely to be part of the mail-order company's main customer base, and which parts of the general population are less so.
+In this component unsupervised learning techniques were used to describe the relationship between the demographics of the company's existing customers and the general population. The goal is to describe parts of the general population that are more likely to be part of the mail-order company's main customer base, and which parts of the general population are less so.
 
 ## C. Supervised learning model 
 
