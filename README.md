@@ -96,3 +96,5 @@ Kaggle.com, Udacity + Arvato Financial Solutions: Identify Customers from a Mail
 Analytics Vidhya, A Beginner’s Guide to Random Forest Hyperparameter Tuning, https://www.analyticsvidhya.com/blog/2020/03/beginners-guide-random-forest-hyperparameter-tuning/
 
 Analytics Vidhya, A Comprehensive Guide to Ensemble Learning, https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
+
+Fawcett, T author. & Provost, F 2013, Data Science for Business, First edition., O’Reilly Media, Inc., viewed 10 February 2021, <https://search.ebscohost.com/login.aspx?direct=true&db=cat00097a&AN=deakin.b4061528&authtype=sso&custid=deakin&site=eds-live&scope=site>.
