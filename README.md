@@ -81,7 +81,7 @@ Run the cells in the Arvato Project workbook.ipynb notebook for a detailed analy
 
 # 6. Results
 
-The blogpost which provides detailed analysis, main findings and recommended improvements of the project can be found at [a link](paste weblink here)
+The blogpost which provides detailed analysis, main findings and recommended improvements of the project can be found [here](https://prabhmit-chadha.medium.com/bertelsmann-arvato-customer-segmentation-and-supervised-learning-models-753571153a04).
 
 # 7. Licensing, Authors and Acknowledgments
 
