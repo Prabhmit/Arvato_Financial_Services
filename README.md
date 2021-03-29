@@ -91,7 +91,7 @@ Capstone Project: Bertelsmann/Arvato Project, Udacity, https://www.udacity.com/c
 
 scikit-learn, Machine Learning in Python, https://scikit-learn.org/stable/index.html
 
-Kaggle.com, Udacity + Arvato Financial Solutions: Identify Customers from a Mailout Campaign ,https://www.kaggle.com/c/udacity-arvato-identify-customers/overview/evaluation
+Kaggle.com, Udacity + Arvato Financial Solutions: Identify Customers from a Mailout Campaign, https://www.kaggle.com/c/udacity-arvato-identify-customers/overview/evaluation
 
 Analytics Vidhya, A Beginner’s Guide to Random Forest Hyperparameter Tuning, https://www.analyticsvidhya.com/blog/2020/03/beginners-guide-random-forest-hyperparameter-tuning/
 
